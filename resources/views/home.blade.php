@@ -21,6 +21,10 @@
      <!-- Scripts -->
      <script src="{{ asset('js/vendor/modernizr-2.8.3-respond-1.4.2.min.js') }}"></script>
 
+     <!-- Icon -->
+     <link rel="icon" href="https://i.pinimg.com/originals/4a/a5/34/4aa534605d1afc465c5bdc5dd80f1ecb.png"
+          type="image/x-icon">
+
      <style>
           .first-content h1 {
                font-size: 70px;
